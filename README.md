@@ -4,11 +4,33 @@
 
 **后端为主的全栈工程师 · 深圳**
 
-[![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](#)
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=333333)
+![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D4AFF?style=flat-square&logo=databricks&logoColor=white)
+![Embedding](https://img.shields.io/badge/Embedding_&_向量检索-1B9E77?style=flat-square&logo=qdrant&logoColor=white)
+![Agent](https://img.shields.io/badge/Agent_&_Tool_Calling-0B7285?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ita201125@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yilecoding)
@@ -21,7 +43,7 @@
 
 - 🧭 **五年半** · 前端起步，近两年重心转到后端与全栈架构
 - 🏭 **现在** · 一家上市制造企业，做集团级业务平台
-- 🎯 **擅长** · 后端架构设计 • 复杂业务拆解 • 全链路性能调优 • 大规模数据可视化
+- 🎯 **擅长** · 后端架构设计 • 复杂业务拆解 • 全链路性能调优 • AI 应用工程 • 大规模数据可视化
 - 🎓 **背景** · 统招本科 · 软件工程
 
 **技术栈**
@@ -33,7 +55,7 @@
 | **数据** | `PostgreSQL / KingbaseES` `MySQL` `MongoDB` `Redis` `向量数据库` |
 | **架构** | `微前端 qiankun` `Monorepo` `事务性 Outbox` `审批流引擎` |
 | **工程化** | `Vite` `Docker` `GitLab CI` `阿里云云效` `VitePress` |
-| **AI** | `RAG 全链路` `多路检索` `Agent 意图路由` `Tool Calling` |
+| **AI 工程** | `RAG 全链路` `分块策略` `Embedding` `稠密 + 稀疏多路检索` `Agent 意图路由` `Tool Calling` `MCP` `会话记忆压缩` `Prompt 工程` |
 
 **做过的事**
 
@@ -42,7 +64,9 @@
 - 🔐 实现 OAuth2 / OIDC 身份提供方，含令牌自省、吊销与登出
 - 🚀 百万级数据查询优化，Redis 多级缓存 + 执行计划调优 + 中间表预计算
 - 🕸️ 600 节点行业拓扑图渲染提速 **70%**，稳定 60fps
+- 🧠 RAG 全链路自建：分块 → 向量化 → 入库 → 稠密 + 稀疏多路检索
 - 🤖 大模型辅助图形空间布局，替代失真的传统图论算法
+- 🔌 MCP 下的工具动态调用与长程会话记忆压缩，控 Token 成本
 
 <details>
 <summary><b>展开更多技术实践</b></summary>
