@@ -46,6 +46,13 @@
 - 🎯 **擅长** · 后端架构设计 • 复杂业务拆解 • 全链路性能调优 • AI 应用工程 • 大规模数据可视化
 - 🎓 **背景** · 统招本科 · 软件工程
 
+**开源项目**
+
+| 项目 | 简介 |
+| :-- | :-- |
+| [**fastapi-react-admin**](https://github.com/yilecoding/fastapi-react-admin)<br>[![Stars](https://img.shields.io/github/stars/yilecoding/fastapi-react-admin?style=flat-square)](https://github.com/yilecoding/fastapi-react-admin/stargazers) | 开箱即用的中后台底座 · FastAPI + React 19 + shadcn/ui<br>权限细到数据行 · 飞书式审批 · 不越权的 AI 助手 · S3 断点续传 · [在线演示](https://fra.wubunan.com/sign-in) |
+| [**helper-scripts**](https://github.com/yilecoding/helper-scripts)<br>[![Stars](https://img.shields.io/github/stars/yilecoding/helper-scripts?style=flat-square)](https://github.com/yilecoding/helper-scripts/stargazers) | 23 个实用油猴脚本，通用脚本都带离线自动化测试<br>自动刷课连播 · 阅读增强 · 去广告弹窗 · 解除复制限制 · 一键导出 |
+
 **技术栈**
 
 | | |
@@ -107,6 +114,6 @@
 
 <div align="center">
 
-*热爱挑战，探究极至。*
+*热爱挑战，探究极致。*
 
 </div>
