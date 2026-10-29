@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-labelledby="t">
+  <title id="t">热爱挑战，探究极致。</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0c1222"/>
+      <stop offset="1" stop-color="#060910"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.7">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="0.6" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1000" height="120" rx="22"/></clipPath>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; }
+      .mono { font-family: "JetBrains Mono", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .breathe { animation: breathe 6s ease-in-out infinite; }
+      @keyframes breathe { 0%,100% { opacity: .6 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="120" fill="url(#bg)"/>
+    <rect class="breathe" width="1000" height="120" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="119" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+  <text class="sans" x="500" y="60" font-size="26" font-weight="600" text-anchor="middle" fill="url(#accent)">热爱挑战，探究极致。</text>
+  <text class="mono" x="500" y="90" font-size="12" text-anchor="middle" fill="#64748b" letter-spacing="2.4">YILECODING · BACKEND · FULL-STACK · AI</text>
+</svg>
