@@ -10,13 +10,16 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=333333)
 ![ECharts](https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -24,6 +27,7 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
@@ -46,23 +50,20 @@
 - 🎯 **擅长** · 后端架构设计 • 复杂业务拆解 • 全链路性能调优 • AI 应用工程 • 大规模数据可视化
 - 🎓 **背景** · 统招本科 · 软件工程
 
-**开源项目**
-
-| 项目 | 简介 |
-| :-- | :-- |
-| [**fastapi-react-admin**](https://github.com/yilecoding/fastapi-react-admin)<br>[![Stars](https://img.shields.io/github/stars/yilecoding/fastapi-react-admin?style=flat-square)](https://github.com/yilecoding/fastapi-react-admin/stargazers) | 开箱即用的中后台底座 · FastAPI + React 19 + shadcn/ui<br>权限细到数据行 · 飞书式审批 · 不越权的 AI 助手 · S3 断点续传 · [在线演示](https://fra.wubunan.com/sign-in) |
-| [**helper-scripts**](https://github.com/yilecoding/helper-scripts)<br>[![Stars](https://img.shields.io/github/stars/yilecoding/helper-scripts?style=flat-square)](https://github.com/yilecoding/helper-scripts/stargazers) | 23 个实用油猴脚本，通用脚本都带离线自动化测试<br>自动刷课连播 · 阅读增强 · 去广告弹窗 · 解除复制限制 · 一键导出 |
-
 **技术栈**
 
 | | |
 | :-- | :-- |
-| **后端** | `Java 17` `Spring Boot 3` `MyBatis-Plus` `Sa-Token` `OAuth2 / OIDC` `Python` `Django / DRF` |
-| **前端** | `Vue 2/3` `TypeScript` `React Hooks` `GoJS` `AG-Grid Enterprise` `ECharts` |
-| **数据** | `PostgreSQL / KingbaseES` `MySQL` `MongoDB` `Redis` `向量数据库` |
-| **架构** | `微前端 qiankun` `Monorepo` `事务性 Outbox` `审批流引擎` |
-| **工程化** | `Vite` `Docker` `GitLab CI` `阿里云云效` `VitePress` |
-| **AI 工程** | `RAG 全链路` `分块策略` `Embedding` `稠密 + 稀疏多路检索` `Agent 意图路由` `Tool Calling` `MCP` `会话记忆压缩` `Prompt 工程` |
+| **后端 · Java** | `Java 17` `Spring Boot 3` `Spring Security` `MyBatis-Plus` `Sa-Token` `OAuth2 / OIDC` |
+| **后端 · Python** | `FastAPI` `Pydantic 2` `SQLAlchemy 2（async）` `Alembic` `Celery` `Django / DRF` |
+| **前端** | `Vue 2/3` `Pinia` `React 19` `TypeScript` `TanStack Router / Query / Table` `Tailwind CSS` `shadcn/ui` `zustand` `i18next` |
+| **可视化** | `ECharts / ECharts-gl` `GoJS` `AG-Grid Enterprise` |
+| **多端** | `Electron` `Expo / React Native` `小程序` `H5` |
+| **数据与存储** | `PostgreSQL / KingbaseES` `MySQL` `SQL Server` `MongoDB` `Redis` `向量数据库` `S3 对象存储` |
+| **架构** | `微前端 qiankun` `Monorepo（pnpm + turbo）` `事务性 Outbox` `审批流引擎` `RBAC + 行级数据权限` `Socket.IO 实时推送` |
+| **工程化** | `Vite` `Docker` `GitLab CI` `GitHub Actions` `阿里云云效` `uv / ruff` `VitePress` |
+| **测试** | `pytest` `Playwright 端到端` |
+| **AI 工程** | `RAG 全链路` `分块策略` `Embedding` `稠密 + 稀疏多路检索` `Agent 意图路由` `Tool Calling` `MCP` `pydantic-ai` `会话记忆压缩` `Prompt 工程` |
 
 **做过的事**
 
