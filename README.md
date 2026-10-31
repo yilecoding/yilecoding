@@ -18,7 +18,6 @@
 - 🏭 **现在**：在一家上市制造企业做集团级业务平台
 - 🤖 **工作方式**：Claude Code / Codex 是日常搭档；项目约定和踩坑记录写进 CLAUDE.md、AGENTS.md 与 Agent Skills，让 Agent 按规矩干活
 - 🎯 **擅长**：Agent 工程（工具调用 · MCP · 权限与审计）· RAG 检索 · 后端架构 · 全链路性能调优 · 大规模数据可视化
-- 🎓 **背景**：统招本科 · 软件工程
 - 💌 **联系**：[ita201125@gmail.com](mailto:ita201125@gmail.com)
 
 <table>
