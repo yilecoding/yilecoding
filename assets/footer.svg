@@ -28,5 +28,5 @@
   </g>
   <rect x="0.5" y="0.5" width="999" height="119" rx="21.5" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
   <text class="sans" x="500" y="60" font-size="26" font-weight="600" text-anchor="middle" fill="url(#accent)">热爱挑战，探究极致。</text>
-  <text class="mono" x="500" y="90" font-size="12" text-anchor="middle" fill="#64748b" letter-spacing="2.4">YILECODING · BACKEND · FULL-STACK · AI</text>
+  <text class="mono" x="500" y="90" font-size="12" text-anchor="middle" fill="#64748b" letter-spacing="2.4">YILECODING · AI AGENT · FULL-STACK</text>
 </svg>

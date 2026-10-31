@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="t d">
   <title id="t">壹樂 · Jerry</title>
-  <desc id="d">壹樂 · Jerry —— 后端为主的全栈工程师，深圳。Java / Spring Boot · Python · Vue / React · AI 应用工程。</desc>
+  <desc id="d">壹樂 · Jerry —— 全栈工程师，把 AI Agent 做进真实业务，深圳。Agent · RAG · MCP · Python / FastAPI · Java / Spring Boot · React / Vue。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0c1222"/>
@@ -58,9 +58,9 @@
   <text class="mono" x="84" y="77" font-size="13" fill="#94a3b8" letter-spacing="2.4">YILECODING · SHENZHEN</text>
 
   <text class="sans" x="64" y="152" font-size="58" font-weight="700" fill="#f8fafc">壹樂 <tspan fill="url(#accent)">· Jerry</tspan></text>
-  <text class="sans" x="66" y="196" font-size="22" fill="#cbd5e1">后端为主的全栈工程师</text>
+  <text class="sans" x="66" y="196" font-size="22" fill="#cbd5e1">全栈工程师 · 把 AI Agent 做进真实业务</text>
 
-  <text class="mono" x="66" y="252" font-size="14" fill="#64748b">Java · Spring Boot · Python · Vue / React · AI 应用工程</text>
+  <text class="mono" x="66" y="252" font-size="14" fill="#64748b">Agent · RAG · MCP · FastAPI · Spring Boot · React</text>
 
   <!-- 右：终端卡片 -->
   <g transform="translate(610 64)">
@@ -69,9 +69,9 @@
     <circle cx="40" cy="22" r="5" fill="#fbbf24" fill-opacity="0.8"/>
     <circle cx="58" cy="22" r="5" fill="#34d399" fill-opacity="0.8"/>
     <text class="mono" x="22" y="66" font-size="13" fill="#64748b">$ <tspan fill="#e2e8f0">whoami</tspan></text>
-    <text class="mono" x="22" y="92" font-size="13" fill="#34d399">backend <tspan fill="#64748b">→</tspan> <tspan fill="#e2e8f0">架构 · 性能</tspan></text>
-    <text class="mono" x="22" y="116" font-size="13" fill="#2dd4bf">frontend <tspan fill="#64748b">→</tspan> <tspan fill="#e2e8f0">可视化</tspan></text>
-    <text class="mono" x="22" y="140" font-size="13" fill="#fbbf24">ai <tspan fill="#64748b">→</tspan> <tspan fill="#e2e8f0">RAG · Agent · MCP</tspan></text>
+    <text class="mono" x="22" y="92" font-size="13" fill="#34d399">agent <tspan fill="#64748b">→</tspan> <tspan fill="#e2e8f0">工具调用 · MCP · 审计</tspan></text>
+    <text class="mono" x="22" y="116" font-size="13" fill="#2dd4bf">rag <tspan fill="#64748b">→</tspan> <tspan fill="#e2e8f0">多路检索 · 记忆压缩</tspan></text>
+    <text class="mono" x="22" y="140" font-size="13" fill="#fbbf24">fullstack <tspan fill="#64748b">→</tspan> <tspan fill="#e2e8f0">后端 · 前端 · 多端</tspan></text>
     <text class="mono" x="22" y="170" font-size="13" fill="#64748b">$ <tspan class="cursor" fill="#e2e8f0">▍</tspan></text>
   </g>
 </svg>
